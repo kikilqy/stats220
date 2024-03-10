@@ -8,6 +8,6 @@
 4.**STATS 220**
 
 ### My hobbies
-*watching movies
-*reading
-*listen to music
+* watching movies
+* reading
+* listen to music
