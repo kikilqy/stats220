@@ -12,7 +12,8 @@
 * reading
 * listen to music
 
-[my university website](https://www.auckland.ac.nz/en.html)
-[my favorite game](https://play2048.co/)
+### websites
+* [my university website](https://www.auckland.ac.nz/en.html)
+* [my favorite game](https://play2048.co/)
 
-![photo of myself](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Ffunny&psig=AOvVaw1pTKJ65rLXIZMxeBpB_sS-&ust=1710149073047000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjFwvKv6YQDFQAAAAAdAAAAABAE)
+! [photo of myself](https://media3.giphy.com/media/Rlwz4m0aHgXH13jyrE/200w.gif?cid=6c09b952qk4a4q32uvdf0x9breygszz6bpb1dzo0irce26j3&ep=v1_gifs_search&rid=200w.gif&ct=g)
