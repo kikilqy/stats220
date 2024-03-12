@@ -1,5 +1,5 @@
 # stats220
-## This is for my stats 220 project
+## This is for my stats 220 project1
 
 ### Courses I attended this semester
 1.*COMPSCI 101*
