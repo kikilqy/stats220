@@ -1,7 +1,7 @@
 # stats220
 ## This is for my stats 220 project1
 
-### Courses I attended this semester
+### Courses I attended 2024 semester one
 1.*COMPSCI 101*
 2.*COMPSCI 111*
 3.*STATS 210*
